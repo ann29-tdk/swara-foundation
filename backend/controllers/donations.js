@@ -47,10 +47,10 @@ module.exports = function (io) {
     <a href="https://www.facebook.com/profile.php?id=100068099547129" style="margin: 0 10px;">
       <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="max-height: 30px;">
     </a>
-    <a href="https://www.instagram.com/swarafoundation" style="margin: 0 10px;">
+    <a href="" style="margin: 0 10px;">
       <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="max-height: 30px;">
     </a>
-    <a href="https://www.linkedin.com/company/swara-foundation" style="margin: 0 10px;">
+    <a href="" style="margin: 0 10px;">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="max-height: 30px;">
     </a>
   </footer>
@@ -222,10 +222,10 @@ module.exports = function (io) {
               <a href="https://www.facebook.com/profile.php?id=100068099547129" style="margin: 0 10px;">
                 <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="max-height: 30px;">
               </a>
-              <a href="https://www.instagram.com/swarafoundation" style="margin: 0 10px;">
+              <a href="" style="margin: 0 10px;">
                 <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="max-height: 30px;">
               </a>
-              <a href="https://www.linkedin.com/company/swara-foundation" style="margin: 0 10px;">
+              <a href="" style="margin: 0 10px;">
                 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="max-height: 30px;">
               </a>
             </footer>
